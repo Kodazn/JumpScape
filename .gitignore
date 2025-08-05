@@ -1,0 +1,15 @@
+# Godot-specific
+.import/
+.export/
+.godot/
+mono/
+*.import
+*.godot/tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build files
+*.exe
+*.pck
